@@ -1,0 +1,27 @@
+﻿<Page
+    x:Class="U13.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:U13"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+
+    <StackPanel Margin="20,0,0,0">
+        <TextBlock FontSize="48" FontWeight="Bold" Margin="0,48,0,0" >Lorem Ipsum</TextBlock>
+        <StackPanel Orientation="Horizontal">
+            <TextBlock Width="250" FontSize="48" TextWrapping="Wrap" Margin="0,0,30,0">Whom sun of which grace would by he that nor of artless many yea before to in weary might did</TextBlock>
+            <TextBlock Width="500" FontSize="48" TextWrapping="Wrap" Margin="0,0,30,0">From consecrate to suffice by and so of in revel was glorious with tis before where harold nor into alas another where to girls ear stalked like from a atonement was grace there degree rake seemed of the soul like fountain in the the vile waste and might bacchanals but</TextBlock>
+            <StackPanel Orientation="Horizontal">
+                <Rectangle Fill="Blue" Width="400" Height="400" VerticalAlignment="Top"></Rectangle>
+                <StackPanel>
+                    <Rectangle Fill="red" Width="200" Height="200" VerticalAlignment="Top"></Rectangle>
+                    <Rectangle Fill="Yellow" Width="200" Height="200" VerticalAlignment="Top"></Rectangle>
+
+                </StackPanel>
+            </StackPanel>
+        </StackPanel>
+    </StackPanel>
+</Page>
