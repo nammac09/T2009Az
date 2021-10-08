@@ -1,0 +1,90 @@
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\bin\ARM\Debug\App.xbf
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\bin\ARM\Debug\MainPage.xbf
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\bin\ARM\Debug\Student Manager.xr.xml
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\bin\ARM\Debug\Student Manager.exe
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\bin\ARM\Debug\Student Manager.pdb
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\bin\ARM\Debug\resources.pri
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\bin\ARM\Debug\AppxManifest.xml
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\bin\ARM\Debug\Core\Student Manager.exe
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\bin\ARM\Debug\Student Manager.build.appxrecipe
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\bin\ARM\Debug\System.Runtime.dll
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\bin\ARM\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\Student Manager.csproj.AssemblyReference.cache
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\App.g.i.cs
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\App.g.cs
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\MainPage.g.cs
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\App.xaml
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\MainPage.xaml
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\App.xbf
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\MainPage.xbf
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\Student Manager.csproj.CoreCompileInputs.cache
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\Student Manager.csproj.CopyComplete
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\Student Manager.exe
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\Student Manager.pdb
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\priconfig.xml
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\unfiltered.layout.resfiles
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\filtered.layout.resfiles
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\filtered.layout.resfiles.intermediate
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\excluded.layout.resfiles
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\excluded.layout.resfiles.intermediate
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\resources.resfiles
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\pri.resfiles
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\qualifiers.txt
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\namma\Documents\GitHub\T2009A\Task7\Student Manager\obj\ARM\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424563200000000.json
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\bin\ARM\Debug\App.xbf
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\bin\ARM\Debug\MainPage.xbf
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\bin\ARM\Debug\Student Manager.xr.xml
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\bin\ARM\Debug\Student Manager.exe
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\bin\ARM\Debug\Student Manager.pdb
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\bin\ARM\Debug\resources.pri
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\bin\ARM\Debug\AppxManifest.xml
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\bin\ARM\Debug\Core\AppxManifest.xml
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\bin\ARM\Debug\Core\Student Manager.exe
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\bin\ARM\Debug\Student Manager.build.appxrecipe
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\bin\ARM\Debug\System.Runtime.dll
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\bin\ARM\Debug\Microsoft.UI.Xaml.Markup.winmd
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\Student Manager.csproj.AssemblyReference.cache
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\App.g.i.cs
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\App.g.cs
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\MainPage.g.i.cs
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\MainPage.g.cs
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\XamlTypeInfo.g.cs
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\App.xaml
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\MainPage.xaml
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\App.xbf
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\MainPage.xbf
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\XamlSaveStateFile.xml
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\Student Manager.csproj.CoreCompileInputs.cache
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\Student Manager.csproj.CopyComplete
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\Student Manager.exe
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\Student Manager.pdb
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\ResourceHandlingTask.state
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\priconfig.xml
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\priconfig.xml.intermediate
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\unfiltered.layout.resfiles
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\unfiltered.layout.resfiles.intermediate
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\filtered.layout.resfiles
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\filtered.layout.resfiles.intermediate
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\excluded.layout.resfiles
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\excluded.layout.resfiles.intermediate
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\resources.resfiles
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\resources.resfiles.intermediate
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\pri.resfiles
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\pri.resfiles.intermediate
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\qualifiers.txt
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\qualifiers.txt.intermediate
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\ProjectArchitectures.txt
+C:\Users\namma\Documents\GitHub\T2009Az\Task 7\Student Manager\obj\ARM\Debug\.winmd_cache\$Microsoft.UI.Xaml.Markup.winmd_637424563200000000.json
