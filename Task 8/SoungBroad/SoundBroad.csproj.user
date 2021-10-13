@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MediumTileSource>C:\Users\dong\Downloads\porcupine\212256567_4300467133405918_9157810205707700933_n.jpg</MediumTileSource>
+    <Source>C:\Users\dong\Downloads\porcupine\212256567_4300467133405918_9157810205707700933_n.jpg</Source>
+    <SmallTileSource>C:\Users\dong\Downloads\porcupine\212256567_4300467133405918_9157810205707700933_n.jpg</SmallTileSource>
+    <WideTileSource>C:\Users\dong\Downloads\porcupine\212256567_4300467133405918_9157810205707700933_n.jpg</WideTileSource>
+    <LargeTileSource>C:\Users\dong\Downloads\porcupine\212256567_4300467133405918_9157810205707700933_n.jpg</LargeTileSource>
+    <AppIconSource>C:\Users\dong\Downloads\porcupine\212256567_4300467133405918_9157810205707700933_n.jpg</AppIconSource>
+    <SplashScreenSource>C:\Users\dong\Downloads\porcupine\212256567_4300467133405918_9157810205707700933_n.jpg</SplashScreenSource>
+    <PackageLogoSource>C:\Users\dong\Downloads\porcupine\212256567_4300467133405918_9157810205707700933_n.jpg</PackageLogoSource>
+  </PropertyGroup>
+</Project>
