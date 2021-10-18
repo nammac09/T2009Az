@@ -1,0 +1,272 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{FF83E894-9124-48E2-ABDA-0D271A261436}</ProjectGuid>
+    <OutputType>AppContainerExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Pratice</RootNamespace>
+    <AssemblyName>Pratice</AssemblyName>
+    <DefaultLanguage>en-US</DefaultLanguage>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetPlatformVersion Condition=" '$(TargetPlatformVersion)' == '' ">10.0.19041.0</TargetPlatformVersion>
+    <TargetPlatformMinVersion>10.0.17763.0</TargetPlatformMinVersion>
+    <MinimumVisualStudioVersion>14</MinimumVisualStudioVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{A5A43C5B-DE2A-4C0C-9213-0A381AF9435A};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WindowsXamlEnableOverview>true</WindowsXamlEnableOverview>
+    <AppxPackageSigningEnabled>false</AppxPackageSigningEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x86\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x86'">
+    <OutputPath>bin\x86\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <OutputPath>bin\ARM\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\ARM64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>ARM64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM64'">
+    <OutputPath>bin\ARM64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>ARM64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x64'">
+    <DebugSymbols>true</DebugSymbols>
+    <OutputPath>bin\x64\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>full</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|x64'">
+    <OutputPath>bin\x64\Release\</OutputPath>
+    <DefineConstants>TRACE;NETFX_CORE;WINDOWS_UWP</DefineConstants>
+    <Optimize>true</Optimize>
+    <NoWarn>;2008</NoWarn>
+    <DebugType>pdbonly</DebugType>
+    <PlatformTarget>x64</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <ErrorReport>prompt</ErrorReport>
+    <Prefer32Bit>true</Prefer32Bit>
+    <UseDotNetNativeToolchain>true</UseDotNetNativeToolchain>
+  </PropertyGroup>
+  <PropertyGroup>
+    <RestoreProjectStyle>PackageReference</RestoreProjectStyle>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="MainPage.xaml.cs">
+      <DependentUpon>MainPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="models\Icon.cs" />
+    <Compile Include="models\Item.cs" />
+    <Compile Include="obj\ARM\Debug\.NETCore,Version=v5.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\ARM\Debug\App.g.cs" />
+    <Compile Include="obj\x86\Debug\.NETCore,Version=v5.0.AssemblyAttributes.cs" />
+    <Compile Include="obj\x86\Debug\App.g.cs" />
+    <Compile Include="obj\x86\Debug\App.g.i.cs" />
+    <Compile Include="obj\x86\Debug\MainPage.g.cs" />
+    <Compile Include="obj\x86\Debug\MainPage.g.i.cs" />
+    <Compile Include="obj\x86\Debug\XamlTypeInfo.g.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppxManifest Include="Package.appxmanifest">
+      <SubType>Designer</SubType>
+    </AppxManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Assets\1.jpg" />
+    <Content Include="Assets\10.jpg" />
+    <Content Include="Assets\2.jpg" />
+    <Content Include="Assets\3.jpg" />
+    <Content Include="Assets\4.jpg" />
+    <Content Include="Assets\5.jpg" />
+    <Content Include="Assets\6.jpg" />
+    <Content Include="Assets\7.jpg" />
+    <Content Include="Assets\8.jpg" />
+    <Content Include="Assets\9.jpg" />
+    <Content Include="bin\x86\Debug\AppxManifest.xml" />
+    <Content Include="bin\x86\Debug\AppX\AppxManifest.xml" />
+    <Content Include="bin\x86\Debug\AppX\Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="bin\x86\Debug\AppX\Assets\SplashScreen.scale-200.png" />
+    <Content Include="bin\x86\Debug\AppX\Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="bin\x86\Debug\AppX\Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="bin\x86\Debug\AppX\Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="bin\x86\Debug\AppX\Assets\StoreLogo.png" />
+    <Content Include="bin\x86\Debug\AppX\Assets\Wide310x150Logo.scale-200.png" />
+    <Content Include="bin\x86\Debug\AppX\entrypoint\Pratice.exe" />
+    <Content Include="bin\x86\Debug\AppX\Pratice.exe" />
+    <Content Include="bin\x86\Debug\AppX\Pratice.xr.xml" />
+    <Content Include="bin\x86\Debug\AppX\Properties\Default.rd.xml" />
+    <Content Include="bin\x86\Debug\AppX\System.Runtime.dll" />
+    <Content Include="bin\x86\Debug\Core\AppxManifest.xml" />
+    <Content Include="bin\x86\Debug\Core\Pratice.exe" />
+    <Content Include="bin\x86\Debug\Pratice.exe" />
+    <Content Include="bin\x86\Debug\Pratice.pdb" />
+    <Content Include="bin\x86\Debug\Pratice.xr.xml" />
+    <Content Include="bin\x86\Debug\System.Runtime.dll" />
+    <Content Include="obj\ARM\Debug\XamlSaveStateFile.xml" />
+    <Content Include="obj\x86\Debug\intermediatexaml\Pratice.exe" />
+    <Content Include="obj\x86\Debug\intermediatexaml\Pratice.pdb" />
+    <Content Include="obj\x86\Debug\MultipleQualifiersPerDimensionFound.txt" />
+    <Content Include="obj\x86\Debug\Pratice.csproj.FileListAbsolute.txt" />
+    <Content Include="obj\x86\Debug\Pratice.exe" />
+    <Content Include="obj\x86\Debug\Pratice.pdb" />
+    <Content Include="obj\x86\Debug\Pratice.xr.xml" />
+    <Content Include="obj\x86\Debug\priconfig.xml" />
+    <Content Include="obj\x86\Debug\ProjectArchitectures.txt" />
+    <Content Include="obj\x86\Debug\qualifiers.txt" />
+    <Content Include="obj\x86\Debug\XamlSaveStateFile.xml" />
+    <Content Include="Properties\Default.rd.xml" />
+    <Content Include="Assets\LockScreenLogo.scale-200.png" />
+    <Content Include="Assets\SplashScreen.scale-200.png" />
+    <Content Include="Assets\Square150x150Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.scale-200.png" />
+    <Content Include="Assets\Square44x44Logo.targetsize-24_altform-unplated.png" />
+    <Content Include="Assets\StoreLogo.png" />
+    <Content Include="Assets\Wide310x150Logo.scale-200.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Page Include="MainPage.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Include="obj\x86\Debug\App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NETCore.UniversalWindowsPlatform">
+      <Version>6.2.12</Version>
+    </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\x86\Debug\App.xbf" />
+    <None Include="bin\x86\Debug\AppX\App.xbf" />
+    <None Include="bin\x86\Debug\AppX\MainPage.xbf" />
+    <None Include="bin\x86\Debug\AppX\Microsoft.UI.Xaml.Markup.winmd" />
+    <None Include="bin\x86\Debug\AppX\resources.pri" />
+    <None Include="bin\x86\Debug\AppX\vs.appxrecipe" />
+    <None Include="bin\x86\Debug\AppX\WinMetadata\Windows.winmd" />
+    <None Include="bin\x86\Debug\MainPage.xbf" />
+    <None Include="bin\x86\Debug\Microsoft.UI.Xaml.Markup.winmd" />
+    <None Include="bin\x86\Debug\Pratice.build.appxrecipe" />
+    <None Include="bin\x86\Debug\resources.pri" />
+    <None Include="obj\ARM\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\ARM\Debug\Pratice.csproj.AssemblyReference.cache" />
+    <None Include="obj\Pratice.csproj.nuget.dgspec.json" />
+    <None Include="obj\Pratice.csproj.nuget.g.props" />
+    <None Include="obj\Pratice.csproj.nuget.g.targets" />
+    <None Include="obj\project.assets.json" />
+    <None Include="obj\project.nuget.cache" />
+    <None Include="obj\x86\Debug\.winmd_cache\%24Microsoft.UI.Xaml.Markup.winmd_637424563200000000.json" />
+    <None Include="obj\x86\Debug\App.xbf" />
+    <None Include="obj\x86\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+    <None Include="obj\x86\Debug\embed\embed.resfiles" />
+    <None Include="obj\x86\Debug\embed\embed.resfiles.intermediate" />
+    <None Include="obj\x86\Debug\excluded.layout.resfiles" />
+    <None Include="obj\x86\Debug\excluded.layout.resfiles.intermediate" />
+    <None Include="obj\x86\Debug\filtered.layout.resfiles" />
+    <None Include="obj\x86\Debug\filtered.layout.resfiles.intermediate" />
+    <None Include="obj\x86\Debug\MainPage.xbf" />
+    <None Include="obj\x86\Debug\Pratice.csproj.AssemblyReference.cache" />
+    <None Include="obj\x86\Debug\Pratice.csproj.CopyComplete" />
+    <None Include="obj\x86\Debug\Pratice.csproj.CoreCompileInputs.cache" />
+    <None Include="obj\x86\Debug\pri.resfiles" />
+    <None Include="obj\x86\Debug\pri.resfiles.intermediate" />
+    <None Include="obj\x86\Debug\priconfig.xml.intermediate" />
+    <None Include="obj\x86\Debug\qualifiers.txt.intermediate" />
+    <None Include="obj\x86\Debug\ResourceHandlingTask.state" />
+    <None Include="obj\x86\Debug\resources.resfiles" />
+    <None Include="obj\x86\Debug\resources.resfiles.intermediate" />
+    <None Include="obj\x86\Debug\unfiltered.layout.resfiles" />
+    <None Include="obj\x86\Debug\unfiltered.layout.resfiles.intermediate" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\ARM\Debug\" />
+    <Folder Include="obj\ARM\Debug\intermediatexaml\" />
+    <Folder Include="obj\ARM\Debug\TempPE\" />
+    <Folder Include="obj\x86\Debug\TempPE\" />
+  </ItemGroup>
+  <PropertyGroup Condition=" '$(VisualStudioVersion)' == '' or '$(VisualStudioVersion)' &lt; '14.0' ">
+    <VisualStudioVersion>14.0</VisualStudioVersion>
+  </PropertyGroup>
+  <Import Project="$(MSBuildExtensionsPath)\Microsoft\WindowsXaml\v$(VisualStudioVersion)\Microsoft.Windows.UI.Xaml.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
