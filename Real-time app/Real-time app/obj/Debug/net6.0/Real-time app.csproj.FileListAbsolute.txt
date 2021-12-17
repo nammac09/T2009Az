@@ -1,0 +1,31 @@
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.csproj.AssemblyReference.cache
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.AssemblyInfoInputs.cache
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.AssemblyInfo.cs
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.csproj.CoreCompileInputs.cache
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\appsettings.json
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\libman.json
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Real-time app.staticwebassets.runtime.json
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Real-time app.exe
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Real-time app.deps.json
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Real-time app.runtimeconfig.json
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Real-time app.dll
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\ref\Real-time app.dll
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Real-time app.pdb
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.RazorAssemblyInfo.cache
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.RazorAssemblyInfo.cs
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\scopedcss\bundle\Real-time app.styles.css
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.csproj.CopyComplete
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.dll
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\ref\Real-time app.dll
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.pdb
+C:\Users\dong\Desktop\T2009A\Real-time app\Real-time app\obj\Debug\net6.0\Real-time app.genruntimeconfig.cache

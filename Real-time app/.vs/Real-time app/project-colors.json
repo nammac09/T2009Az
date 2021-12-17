@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "940efa68-45ad-4f72-a37c-f7be824d19e3": {
+      "ProjectGuid": "940efa68-45ad-4f72-a37c-f7be824d19e3",
+      "DisplayName": "Real-time app",
+      "ColorIndex": 0
+    },
+    "fc3df7d8-60cb-4ab4-b5c5-4e2f40d7bfe0": {
+      "ProjectGuid": "fc3df7d8-60cb-4ab4-b5c5-4e2f40d7bfe0",
+      "DisplayName": "SignalR with Blazor",
+      "ColorIndex": 1
+    },
+    "3fee11b3-3afe-4e33-99a7-3072f02df6a3": {
+      "ProjectGuid": "3fee11b3-3afe-4e33-99a7-3072f02df6a3",
+      "DisplayName": "SignalRwithBlazor",
+      "ColorIndex": 2
+    },
+    "f0120dbe-7303-42e8-b41b-66c9533f45d7": {
+      "ProjectGuid": "f0120dbe-7303-42e8-b41b-66c9533f45d7",
+      "DisplayName": "Blazor Server App",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
