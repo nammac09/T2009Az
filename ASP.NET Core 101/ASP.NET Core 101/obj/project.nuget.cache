@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DCC8Hf7ZSl0WqWCrphWzDsfdMW16sW2IU9sSyoq+774ozY8qDSRz0CQv5SA8MAR1nM9lR+57Ph9NguWj+S8MMA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dong\\Desktop\\T2009A\\ASP.NET Core 101\\ASP.NET Core 101\\ASP.NET Core 101.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dong\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

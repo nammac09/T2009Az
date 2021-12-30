@@ -1,0 +1,43 @@
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\bin\Debug\net5.0\appsettings.json
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\bin\Debug\net5.0\ASP.NET Core 101.exe
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\bin\Debug\net5.0\ASP.NET Core 101.deps.json
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\bin\Debug\net5.0\ASP.NET Core 101.runtimeconfig.json
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\bin\Debug\net5.0\ASP.NET Core 101.runtimeconfig.dev.json
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\bin\Debug\net5.0\ASP.NET Core 101.dll
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\bin\Debug\net5.0\ref\ASP.NET Core 101.dll
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\bin\Debug\net5.0\ASP.NET Core 101.pdb
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\bin\Debug\net5.0\ASP.NET Core 101.Views.dll
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\bin\Debug\net5.0\ASP.NET Core 101.Views.pdb
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.AssemblyInfoInputs.cache
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.AssemblyInfo.cs
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.csproj.CoreCompileInputs.cache
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.RazorComponent.input.cache
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\RazorDeclaration\Components\ProductList.razor.g.cs
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.RazorComponent.output.cache
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\RazorDeclaration\ASP.NET Core 101.dll
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.TagHelpers.input.cache
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.TagHelpers.output.cache
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.RazorCoreGenerate.cache
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\Razor\Components\ProductList.razor.g.cs
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.RazorAssemblyInfo.cache
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.RazorAssemblyInfo.cs
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\scopedcss\bundle\ASP.NET Core 101.styles.css
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\staticwebassets\ASP.NET Core 101.StaticWebAssets.Manifest.cache
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.RazorTargetAssemblyInfo.cache
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.RazorTargetAssemblyInfo.cs
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.Views.pdb
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.dll
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ref\ASP.NET Core 101.dll
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.pdb
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.genruntimeconfig.cache
+C:\Users\dong\Desktop\T2009A\ASP.NET Core 101\ASP.NET Core 101\obj\Debug\net5.0\ASP.NET Core 101.csproj.CopyComplete
