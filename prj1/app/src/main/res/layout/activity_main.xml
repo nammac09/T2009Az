@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/activity_main"
+    android:background="@color/black">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Enter feedback details to send to the developer"
+        android:textColor="@color/white"
+        android:layout_marginTop="10dp"
+        android:textSize="20dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:id="@+id/edUser"
+        android:text="Anne Droid"
+        android:background="@color/white"
+        android:layout_marginVertical="5dp"/>
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/white"
+        android:id="@+id/edGmail"
+        android:text="anne@droid.com"
+        android:layout_marginVertical="5dp"/>
+
+    <Spinner
+        android:id="@+id/spinner"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:background="@color/white"
+        android:layout_marginVertical="5dp"
+        />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:background="@color/white"
+        android:id="@+id/edDes"
+        android:text="This is the most boring application ever. If you don't spice it up soon, I am going to give you a bad rating! I accept bribes..."
+        android:layout_marginVertical="5dp"/>
+    <CheckBox
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/ck"
+        android:text="Would you like an email response?"
+        android:textColor="@color/white"/>
+    <Button
+        android:id="@+id/btSend"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Send FeedBack"
+        android:layout_marginTop="10dp"
+        android:layout_gravity="center"/>
+
+
+</LinearLayout>
